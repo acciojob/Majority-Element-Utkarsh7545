@@ -7,7 +7,7 @@ function majorityelement(arr) {
 				count++;
 			}
 		}
-		if(count>=a){
+		if(count>a){
 			return arr[i];
 		}
 	}
